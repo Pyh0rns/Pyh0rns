@@ -8,7 +8,7 @@
 
 <p align="left"> - 💬 Ask me about **your next trip in the Himalayas** (my previous life) </p>
 
-<p align="left"> - 📄 If you want to know about my experiences [https://www.linkedin.com/in/pierre-yves-hoorens-4046418b/](https://www.linkedin.com/in/pierre-yves-hoorens-4046418b/) </p>
+<p align="left"> - 📄 Check Linkedin if you want to know about my experiences ⬇️  </p> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
