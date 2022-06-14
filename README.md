@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm PY</h1>
 <h3 align="center">Fullstack Developer - Teacher Assistant @LeWagon</h3>
 
-<p align="left"> - 🔭 I’m also currently working on [City Pulse](www.city-pulse.fr) V-1 </p>
+<p align="left"> - 🔭 I’m also currently working on www.city-pulse.fr V-1 </p>
 <p align="left"> Mobile and better features: https://rails-city-pulse-v2.herokuapp.com/ V-2 </p>
 <p align="left"> V-3 coming soon... </p>
 
