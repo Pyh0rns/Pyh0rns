@@ -4,8 +4,8 @@
 - 🔭 I’m also currently working on [City Pulse](www.city-pulse.fr) V-1
 - Mobile and better features: https://rails-city-pulse-v2.herokuapp.com/ V-2
 - V-3 coming soon...
-
-- 💬 Ask me about **your next trip in the Himalayas**
+<br>
+- 💬 Ask me about **your next trip in the Himalayas** (my previous life)
 
 - 📄 If you want to know about my experiences [https://www.linkedin.com/in/pierre-yves-hoorens-4046418b/](https://www.linkedin.com/in/pierre-yves-hoorens-4046418b/)
 
