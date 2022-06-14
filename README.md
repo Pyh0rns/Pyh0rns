@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm PY</h1>
 <h3 align="center">Fullstack Developer - Teacher Assistant @LeWagon</h3>
 
-- 🔭 I’m also currently working on [City Pulse](www.city-pulse.fr) V-1
-- Mobile and better features: https://rails-city-pulse-v2.herokuapp.com/ V-2
-- V-3 coming soon...
-<br>
-- 💬 Ask me about **your next trip in the Himalayas** (my previous life)
+<p align="left"> - 🔭 I’m also currently working on [City Pulse](www.city-pulse.fr) V-1 </p>
+<p align="left"> Mobile and better features: https://rails-city-pulse-v2.herokuapp.com/ V-2 </p>
+<p align="left"> V-3 coming soon... </p>
 
-- 📄 If you want to know about my experiences [https://www.linkedin.com/in/pierre-yves-hoorens-4046418b/](https://www.linkedin.com/in/pierre-yves-hoorens-4046418b/)
+
+<p align="left"> - 💬 Ask me about **your next trip in the Himalayas** (my previous life) </p>
+
+<p align="left"> - 📄 If you want to know about my experiences [https://www.linkedin.com/in/pierre-yves-hoorens-4046418b/](https://www.linkedin.com/in/pierre-yves-hoorens-4046418b/) </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
